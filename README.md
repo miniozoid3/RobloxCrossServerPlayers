@@ -16,7 +16,8 @@ RobloxCrossServerPlayers is a quirky project aimed at bypassing Roblox's player 
 2. **Edit the Script:**
    - Open the Roblox game in Studio.
    - Find the script in `ServerScriptService`.
-   - Stick your IP in there. Good luck!
+   - Stick your IP and Port in there. Good luck!
+   - Default Port is 5000
 
 3. **Max Server Size: 1:**
    - Go to the Roblox website, configure your place, and set the max server size to 1. This is where the magic happens... hopefully.
