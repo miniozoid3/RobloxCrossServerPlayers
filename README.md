@@ -10,6 +10,8 @@ RobloxCrossServerPlayers is a quirky project aimed at bypassing Roblox's player 
 
 1. **Fire up the Jank:**
    - Just run `index.js` and cross your fingers. No guarantees here!
+   - Make sure your port forwarding if your using your home newtork.
+   - I reccomend to use a server instead of your home pc.
 
 2. **Edit the Script:**
    - Open the Roblox game in Studio.
@@ -37,4 +39,4 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
 ---
 
-Good luck, and may the Roblox gods have mercy on your server. Need help? Well, I'm probably struggling too, but feel free to scream into the void [here](LINK_TO_YOUR_GITHUB_ISSUES_PAGE) or [on Discord](YOUR_DISCORD_INVITE_LINK).
+Good luck, and may the Roblox gods have mercy on your server. Need help? Well, I'm probably struggling too, but feel free to scream into the void [here](https://github.com/14356896036473658/RobloxCrossServerPlayers/issues) or [on Discord](https://discord.gg/aC7JJ6CtMP).
