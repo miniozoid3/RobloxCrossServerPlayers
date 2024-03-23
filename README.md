@@ -12,6 +12,7 @@ RobloxCrossServerPlayers is a quirky project aimed at bypassing Roblox's player 
    - Just run `index.js` and cross your fingers. No guarantees here!
    - Make sure your port forwarding if your using your home newtork.
    - I reccomend to use a server instead of your home pc.
+   - Make sure to install express with npm.
 
 2. **Edit the Script:**
    - Open the Roblox game in Studio.
