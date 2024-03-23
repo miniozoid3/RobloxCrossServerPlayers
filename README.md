@@ -39,4 +39,4 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
 ---
 
-Good luck, and may the Roblox gods have mercy on your server. Need help? Well, I'm probably struggling too, but feel free to scream into the void [here](https://github.com/14356896036473658/RobloxCrossServerPlayers/issues) or [on Discord](https://discord.gg/aC7JJ6CtMP).
+Good luck, and may the Roblox gods have mercy on your server. Need help? Well, I'm probably struggling too, but feel free to scream into the void [here](https://github.com/miniozoid3/RobloxCrossServerPlayers/issues) or [on Discord](https://discord.gg/aC7JJ6CtMP).
